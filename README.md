@@ -1,5 +1,6 @@
 # test
 * java
 * git
-* ruby
+* js
+
 
